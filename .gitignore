@@ -1,0 +1,5 @@
+*.env
+howard/
+data/
+.DS_Store
+*.pyc
